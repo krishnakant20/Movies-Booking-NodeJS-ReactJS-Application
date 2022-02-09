@@ -1,0 +1,26 @@
+
+.headerCss {
+    background-color: #222;
+    height: 54px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 32px;
+    padding-left: 16px;
+    color: pink;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+img{
+    background-color: #ff7f7f;
+    height: 35px;
+}
+#miniLogin{
+    margin: 30px;
+    margin-left: 80px;
+}
+#miniLogin2{
+    margin: 30px;
+    margin-left: 70px;
+}

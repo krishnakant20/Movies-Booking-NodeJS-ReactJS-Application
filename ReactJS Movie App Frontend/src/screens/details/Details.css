@@ -1,0 +1,31 @@
+#dContainer {
+  display: flex;
+  justify-content: space-between;
+}
+#mainDetails{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 100vw;
+}
+#left{
+    /* background-color: pink; */
+    width: 20vw;
+    padding: 10px;
+
+}
+#middle{
+    /* background-color: rgb(243, 250, 222); */
+    width: 60vw;
+    padding: 10px;
+
+}
+#right{
+    /* background-color: rgb(17, 201, 26); */
+    width: 20vw;
+    padding: 10px;
+}
+/* #whiteSpace{
+    background-color: white;
+} */
